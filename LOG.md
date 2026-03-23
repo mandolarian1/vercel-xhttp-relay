@@ -13,3 +13,7 @@ Add project architecture overview.
 ## [2026-03-22] docs: document API endpoint structure
 
 Document api endpoint structure.
+
+## [2026-03-23] refactor: clean up configuration handling
+
+Clean up configuration handling.
