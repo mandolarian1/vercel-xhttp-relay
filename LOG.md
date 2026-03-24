@@ -17,3 +17,7 @@ Document api endpoint structure.
 ## [2026-03-23] refactor: clean up configuration handling
 
 Clean up configuration handling.
+
+## [2026-03-24] docs: add setup and installation guide
+
+Add setup and installation guide.
