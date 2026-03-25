@@ -21,3 +21,7 @@ Clean up configuration handling.
 ## [2026-03-24] docs: add setup and installation guide
 
 Add setup and installation guide.
+
+## [2026-03-25] fix: correct environment variable references
+
+Correct environment variable references.
