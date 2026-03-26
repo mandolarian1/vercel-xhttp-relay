@@ -25,3 +25,7 @@ Add setup and installation guide.
 ## [2026-03-25] fix: correct environment variable references
 
 Correct environment variable references.
+
+## [2026-03-26] docs: document deployment process
+
+Document deployment process.
