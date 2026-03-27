@@ -29,3 +29,7 @@ Correct environment variable references.
 ## [2026-03-26] docs: document deployment process
 
 Document deployment process.
+
+## [2026-03-27] chore: update .gitignore patterns
+
+Update .gitignore patterns.
