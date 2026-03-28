@@ -33,3 +33,7 @@ Document deployment process.
 ## [2026-03-27] chore: update .gitignore patterns
 
 Update .gitignore patterns.
+
+## [2026-03-28] docs: add contribution guidelines
+
+Add contribution guidelines.
