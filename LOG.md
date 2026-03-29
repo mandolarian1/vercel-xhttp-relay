@@ -37,3 +37,7 @@ Update .gitignore patterns.
 ## [2026-03-28] docs: add contribution guidelines
 
 Add contribution guidelines.
+
+## [2026-03-29] docs: describe request routing logic
+
+Describe request routing logic.
