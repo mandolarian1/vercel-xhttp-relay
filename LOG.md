@@ -41,3 +41,7 @@ Add contribution guidelines.
 ## [2026-03-29] docs: describe request routing logic
 
 Describe request routing logic.
+
+## [2026-03-30] perf: note optimization opportunities in relay
+
+Note optimization opportunities in relay.
