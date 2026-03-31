@@ -45,3 +45,7 @@ Describe request routing logic.
 ## [2026-03-30] perf: note optimization opportunities in relay
 
 Note optimization opportunities in relay.
+
+## [2026-03-31] docs: add troubleshooting section
+
+Add troubleshooting section.
