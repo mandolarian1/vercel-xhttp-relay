@@ -49,3 +49,7 @@ Note optimization opportunities in relay.
 ## [2026-03-31] docs: add troubleshooting section
 
 Add troubleshooting section.
+
+## [2026-04-01] fix: clarify proxy timeout settings
+
+Clarify proxy timeout settings.
