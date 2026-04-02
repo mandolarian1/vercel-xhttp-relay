@@ -53,3 +53,7 @@ Add troubleshooting section.
 ## [2026-04-01] fix: clarify proxy timeout settings
 
 Clarify proxy timeout settings.
+
+## [2026-04-02] docs: document xhttp protocol behavior
+
+Document xhttp protocol behavior.
