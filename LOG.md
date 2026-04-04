@@ -61,3 +61,7 @@ Document xhttp protocol behavior.
 ## [2026-04-03] chore: add project metadata
 
 Add project metadata.
+
+## [2026-04-04] docs: describe Vercel serverless functions
+
+Describe vercel serverless functions.
