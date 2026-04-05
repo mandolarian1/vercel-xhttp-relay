@@ -65,3 +65,7 @@ Add project metadata.
 ## [2026-04-04] docs: describe Vercel serverless functions
 
 Describe vercel serverless functions.
+
+## [2026-04-05] docs: add security considerations
+
+Add security considerations.
