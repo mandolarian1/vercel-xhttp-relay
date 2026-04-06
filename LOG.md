@@ -69,3 +69,7 @@ Describe vercel serverless functions.
 ## [2026-04-05] docs: add security considerations
 
 Add security considerations.
+
+## [2026-04-06] refactor: improve code readability notes
+
+Improve code readability notes.
