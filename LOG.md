@@ -73,3 +73,7 @@ Add security considerations.
 ## [2026-04-06] refactor: improve code readability notes
 
 Improve code readability notes.
+
+## [2026-04-07] docs: explain connection pooling strategy
+
+Explain connection pooling strategy.
