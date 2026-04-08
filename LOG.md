@@ -77,3 +77,7 @@ Improve code readability notes.
 ## [2026-04-07] docs: explain connection pooling strategy
 
 Explain connection pooling strategy.
+
+## [2026-04-08] fix: note edge case in header forwarding
+
+Note edge case in header forwarding.
