@@ -81,3 +81,7 @@ Explain connection pooling strategy.
 ## [2026-04-08] fix: note edge case in header forwarding
 
 Note edge case in header forwarding.
+
+## [2026-04-09] docs: add monitoring and logging guide
+
+Add monitoring and logging guide.
