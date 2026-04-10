@@ -85,3 +85,7 @@ Note edge case in header forwarding.
 ## [2026-04-09] docs: add monitoring and logging guide
 
 Add monitoring and logging guide.
+
+## [2026-04-10] chore: update project description
+
+Update project description.
