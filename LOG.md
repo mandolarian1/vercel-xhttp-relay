@@ -89,3 +89,7 @@ Add monitoring and logging guide.
 ## [2026-04-10] chore: update project description
 
 Update project description.
+
+## [2026-04-11] docs: document rate limiting behavior
+
+Document rate limiting behavior.
