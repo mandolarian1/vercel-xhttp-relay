@@ -93,3 +93,7 @@ Update project description.
 ## [2026-04-11] docs: document rate limiting behavior
 
 Document rate limiting behavior.
+
+## [2026-04-12] perf: log memory usage improvements
+
+Log memory usage improvements.
