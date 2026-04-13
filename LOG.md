@@ -97,3 +97,7 @@ Document rate limiting behavior.
 ## [2026-04-12] perf: log memory usage improvements
 
 Log memory usage improvements.
+
+## [2026-04-13] docs: describe failover handling
+
+Describe failover handling.
