@@ -101,3 +101,7 @@ Log memory usage improvements.
 ## [2026-04-13] docs: describe failover handling
 
 Describe failover handling.
+
+## [2026-04-14] fix: clarify CORS configuration
+
+Clarify cors configuration.
