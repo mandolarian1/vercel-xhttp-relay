@@ -105,3 +105,7 @@ Describe failover handling.
 ## [2026-04-14] fix: clarify CORS configuration
 
 Clarify cors configuration.
+
+## [2026-04-15] docs: add example request and response
+
+Add example request and response.
