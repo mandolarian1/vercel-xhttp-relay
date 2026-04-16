@@ -109,3 +109,7 @@ Clarify cors configuration.
 ## [2026-04-15] docs: add example request and response
 
 Add example request and response.
+
+## [2026-04-16] chore: restructure documentation layout
+
+Restructure documentation layout.
