@@ -113,3 +113,7 @@ Add example request and response.
 ## [2026-04-16] chore: restructure documentation layout
 
 Restructure documentation layout.
+
+## [2026-04-17] docs: document WebSocket upgrade flow
+
+Document websocket upgrade flow.
