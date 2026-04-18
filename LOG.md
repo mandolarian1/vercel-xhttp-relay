@@ -117,3 +117,7 @@ Restructure documentation layout.
 ## [2026-04-17] docs: document WebSocket upgrade flow
 
 Document websocket upgrade flow.
+
+## [2026-04-18] fix: note response compression handling
+
+Note response compression handling.
