@@ -121,3 +121,7 @@ Document websocket upgrade flow.
 ## [2026-04-18] fix: note response compression handling
 
 Note response compression handling.
+
+## [2026-04-19] docs: add performance benchmarks section
+
+Add performance benchmarks section.
