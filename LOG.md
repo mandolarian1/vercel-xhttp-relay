@@ -125,3 +125,7 @@ Note response compression handling.
 ## [2026-04-19] docs: add performance benchmarks section
 
 Add performance benchmarks section.
+
+## [2026-04-20] perf: record latency improvements
+
+Record latency improvements.
