@@ -129,3 +129,7 @@ Add performance benchmarks section.
 ## [2026-04-20] perf: record latency improvements
 
 Record latency improvements.
+
+## [2026-04-21] docs: describe load balancing approach
+
+Describe load balancing approach.
