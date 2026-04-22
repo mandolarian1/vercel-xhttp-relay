@@ -133,3 +133,7 @@ Record latency improvements.
 ## [2026-04-21] docs: describe load balancing approach
 
 Describe load balancing approach.
+
+## [2026-04-22] fix: correct SSL and TLS termination notes
+
+Correct ssl and tls termination notes.
