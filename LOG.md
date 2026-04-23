@@ -137,3 +137,7 @@ Describe load balancing approach.
 ## [2026-04-22] fix: correct SSL and TLS termination notes
 
 Correct ssl and tls termination notes.
+
+## [2026-04-23] docs: add API versioning strategy
+
+Add api versioning strategy.
