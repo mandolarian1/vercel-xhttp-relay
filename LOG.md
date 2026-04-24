@@ -141,3 +141,7 @@ Correct ssl and tls termination notes.
 ## [2026-04-23] docs: add API versioning strategy
 
 Add api versioning strategy.
+
+## [2026-04-24] chore: update license information
+
+Update license information.
