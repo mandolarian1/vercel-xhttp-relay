@@ -145,3 +145,7 @@ Add api versioning strategy.
 ## [2026-04-24] chore: update license information
 
 Update license information.
+
+## [2026-04-25] docs: document error handling patterns
+
+Document error handling patterns.
