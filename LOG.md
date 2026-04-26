@@ -149,3 +149,7 @@ Update license information.
 ## [2026-04-25] docs: document error handling patterns
 
 Document error handling patterns.
+
+## [2026-04-26] fix: note edge case in chunked transfer
+
+Note edge case in chunked transfer.
