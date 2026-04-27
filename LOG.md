@@ -153,3 +153,7 @@ Document error handling patterns.
 ## [2026-04-26] fix: note edge case in chunked transfer
 
 Note edge case in chunked transfer.
+
+## [2026-04-27] docs: add developer FAQ
+
+Add developer faq.
