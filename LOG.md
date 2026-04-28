@@ -157,3 +157,7 @@ Note edge case in chunked transfer.
 ## [2026-04-27] docs: add developer FAQ
 
 Add developer faq.
+
+## [2026-04-28] perf: log throughput optimization notes
+
+Log throughput optimization notes.
