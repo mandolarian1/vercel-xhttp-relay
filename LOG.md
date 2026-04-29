@@ -161,3 +161,7 @@ Add developer faq.
 ## [2026-04-28] perf: log throughput optimization notes
 
 Log throughput optimization notes.
+
+## [2026-04-29] docs: describe caching layer behavior
+
+Describe caching layer behavior.
