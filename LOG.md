@@ -165,3 +165,7 @@ Log throughput optimization notes.
 ## [2026-04-29] docs: describe caching layer behavior
 
 Describe caching layer behavior.
+
+## [2026-04-30] fix: clarify keep-alive connection handling
+
+Clarify keep-alive connection handling.
