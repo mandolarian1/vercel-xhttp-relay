@@ -169,3 +169,7 @@ Describe caching layer behavior.
 ## [2026-04-30] fix: clarify keep-alive connection handling
 
 Clarify keep-alive connection handling.
+
+## [2026-05-01] docs: add integration test examples
+
+Add integration test examples.
