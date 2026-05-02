@@ -173,3 +173,7 @@ Clarify keep-alive connection handling.
 ## [2026-05-01] docs: add integration test examples
 
 Add integration test examples.
+
+## [2026-05-02] chore: clean up stale documentation
+
+Clean up stale documentation.
