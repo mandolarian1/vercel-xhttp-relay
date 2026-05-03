@@ -177,3 +177,7 @@ Add integration test examples.
 ## [2026-05-02] chore: clean up stale documentation
 
 Clean up stale documentation.
+
+## [2026-05-03] docs: document environment configuration
+
+Document environment configuration.
