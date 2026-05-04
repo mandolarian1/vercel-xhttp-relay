@@ -181,3 +181,7 @@ Clean up stale documentation.
 ## [2026-05-03] docs: document environment configuration
 
 Document environment configuration.
+
+## [2026-05-04] fix: note redirect handling edge case
+
+Note redirect handling edge case.
