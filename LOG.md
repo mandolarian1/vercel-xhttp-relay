@@ -185,3 +185,7 @@ Document environment configuration.
 ## [2026-05-04] fix: note redirect handling edge case
 
 Note redirect handling edge case.
+
+## [2026-05-05] docs: add sequence diagram for relay flow
+
+Add sequence diagram for relay flow.
