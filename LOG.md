@@ -197,3 +197,7 @@ Record cold start time improvements.
 ## [2026-05-07] docs: describe request deduplication
 
 Describe request deduplication.
+
+## [2026-05-08] fix: clarify max body size limits
+
+Clarify max body size limits.
