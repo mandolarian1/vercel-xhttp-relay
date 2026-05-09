@@ -201,3 +201,7 @@ Describe request deduplication.
 ## [2026-05-08] fix: clarify max body size limits
 
 Clarify max body size limits.
+
+## [2026-05-09] docs: add observability guide
+
+Add observability guide.
