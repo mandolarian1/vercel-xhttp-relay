@@ -205,3 +205,7 @@ Clarify max body size limits.
 ## [2026-05-09] docs: add observability guide
 
 Add observability guide.
+
+## [2026-05-10] chore: update dependency notes
+
+Update dependency notes.
