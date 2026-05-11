@@ -209,3 +209,7 @@ Add observability guide.
 ## [2026-05-10] chore: update dependency notes
 
 Update dependency notes.
+
+## [2026-05-11] docs: document graceful shutdown process
+
+Document graceful shutdown process.
