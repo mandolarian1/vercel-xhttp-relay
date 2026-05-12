@@ -213,3 +213,7 @@ Update dependency notes.
 ## [2026-05-11] docs: document graceful shutdown process
 
 Document graceful shutdown process.
+
+## [2026-05-12] fix: note IPv6 compatibility details
+
+Note ipv6 compatibility details.
