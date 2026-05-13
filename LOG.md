@@ -217,3 +217,7 @@ Document graceful shutdown process.
 ## [2026-05-12] fix: note IPv6 compatibility details
 
 Note ipv6 compatibility details.
+
+## [2026-05-13] docs: add deployment checklist
+
+Add deployment checklist.
