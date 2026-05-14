@@ -221,3 +221,7 @@ Note ipv6 compatibility details.
 ## [2026-05-13] docs: add deployment checklist
 
 Add deployment checklist.
+
+## [2026-05-14] perf: log connection reuse stats
+
+Log connection reuse stats.
