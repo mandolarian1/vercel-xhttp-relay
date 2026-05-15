@@ -225,3 +225,7 @@ Add deployment checklist.
 ## [2026-05-14] perf: log connection reuse stats
 
 Log connection reuse stats.
+
+## [2026-05-15] docs: describe custom header handling
+
+Describe custom header handling.
