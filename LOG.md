@@ -229,3 +229,7 @@ Log connection reuse stats.
 ## [2026-05-15] docs: describe custom header handling
 
 Describe custom header handling.
+
+## [2026-05-16] fix: clarify timeout retry behavior
+
+Clarify timeout retry behavior.
