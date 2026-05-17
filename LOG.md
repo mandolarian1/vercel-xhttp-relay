@@ -233,3 +233,7 @@ Describe custom header handling.
 ## [2026-05-16] fix: clarify timeout retry behavior
 
 Clarify timeout retry behavior.
+
+## [2026-05-17] docs: add cost estimation guide
+
+Add cost estimation guide.
