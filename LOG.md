@@ -237,3 +237,7 @@ Clarify timeout retry behavior.
 ## [2026-05-17] docs: add cost estimation guide
 
 Add cost estimation guide.
+
+## [2026-05-18] chore: reorganize project structure notes
+
+Reorganize project structure notes.
