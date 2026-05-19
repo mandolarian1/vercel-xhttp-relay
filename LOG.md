@@ -241,3 +241,7 @@ Add cost estimation guide.
 ## [2026-05-18] chore: reorganize project structure notes
 
 Reorganize project structure notes.
+
+## [2026-05-19] docs: document streaming response behavior
+
+Document streaming response behavior.
