@@ -245,3 +245,7 @@ Reorganize project structure notes.
 ## [2026-05-19] docs: document streaming response behavior
 
 Document streaming response behavior.
+
+## [2026-05-20] fix: note large payload handling
+
+Note large payload handling.
