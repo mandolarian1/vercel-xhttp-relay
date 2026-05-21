@@ -249,3 +249,7 @@ Document streaming response behavior.
 ## [2026-05-20] fix: note large payload handling
 
 Note large payload handling.
+
+## [2026-05-21] docs: add multi-region deployment guide
+
+Add multi-region deployment guide.
