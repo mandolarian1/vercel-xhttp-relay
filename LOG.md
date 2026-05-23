@@ -257,3 +257,7 @@ Add multi-region deployment guide.
 ## [2026-05-22] perf: record edge cache hit improvements
 
 Record edge cache hit improvements.
+
+## [2026-05-23] docs: describe authentication flow
+
+Describe authentication flow.
