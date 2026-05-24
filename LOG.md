@@ -261,3 +261,7 @@ Record edge cache hit improvements.
 ## [2026-05-23] docs: describe authentication flow
 
 Describe authentication flow.
+
+## [2026-05-24] fix: clarify upstream error propagation
+
+Clarify upstream error propagation.
