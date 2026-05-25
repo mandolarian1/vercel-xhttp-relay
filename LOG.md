@@ -265,3 +265,7 @@ Describe authentication flow.
 ## [2026-05-24] fix: clarify upstream error propagation
 
 Clarify upstream error propagation.
+
+## [2026-05-25] docs: add CI/CD pipeline documentation
+
+Add ci/cd pipeline documentation.
