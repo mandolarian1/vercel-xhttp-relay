@@ -269,3 +269,7 @@ Clarify upstream error propagation.
 ## [2026-05-25] docs: add CI/CD pipeline documentation
 
 Add ci/cd pipeline documentation.
+
+## [2026-05-26] chore: update build configuration notes
+
+Update build configuration notes.
