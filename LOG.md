@@ -273,3 +273,7 @@ Add ci/cd pipeline documentation.
 ## [2026-05-26] chore: update build configuration notes
 
 Update build configuration notes.
+
+## [2026-05-27] docs: document health check endpoints
+
+Document health check endpoints.
