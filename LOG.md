@@ -281,3 +281,7 @@ Document health check endpoints.
 ## [2026-05-28] fix: note DNS resolution behavior
 
 Note dns resolution behavior.
+
+## [2026-05-29] docs: add capacity planning guide
+
+Add capacity planning guide.
