@@ -285,3 +285,7 @@ Note dns resolution behavior.
 ## [2026-05-29] docs: add capacity planning guide
 
 Add capacity planning guide.
+
+## [2026-05-30] perf: log response time improvements
+
+Log response time improvements.
