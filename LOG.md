@@ -293,3 +293,7 @@ Log response time improvements.
 ## [2026-05-31] docs: describe feature flag system
 
 Describe feature flag system.
+
+## [2026-06-01] fix: clarify proxy chain behavior
+
+Clarify proxy chain behavior.
