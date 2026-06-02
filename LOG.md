@@ -297,3 +297,7 @@ Describe feature flag system.
 ## [2026-06-01] fix: clarify proxy chain behavior
 
 Clarify proxy chain behavior.
+
+## [2026-06-02] docs: add rollback procedure
+
+Add rollback procedure.
