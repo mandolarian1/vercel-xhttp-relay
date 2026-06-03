@@ -301,3 +301,7 @@ Clarify proxy chain behavior.
 ## [2026-06-02] docs: add rollback procedure
 
 Add rollback procedure.
+
+## [2026-06-03] chore: update release notes format
+
+Update release notes format.
