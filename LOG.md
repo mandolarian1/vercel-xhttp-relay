@@ -305,3 +305,7 @@ Add rollback procedure.
 ## [2026-06-03] chore: update release notes format
 
 Update release notes format.
+
+## [2026-06-04] docs: document analytics integration
+
+Document analytics integration.
