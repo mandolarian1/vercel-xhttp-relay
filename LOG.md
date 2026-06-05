@@ -309,3 +309,7 @@ Update release notes format.
 ## [2026-06-04] docs: document analytics integration
 
 Document analytics integration.
+
+## [2026-06-05] fix: note request sanitization details
+
+Note request sanitization details.
