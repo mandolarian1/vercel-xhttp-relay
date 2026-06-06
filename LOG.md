@@ -313,3 +313,7 @@ Document analytics integration.
 ## [2026-06-05] fix: note request sanitization details
 
 Note request sanitization details.
+
+## [2026-06-06] docs: add A/B testing guidance
+
+Add a/b testing guidance.
