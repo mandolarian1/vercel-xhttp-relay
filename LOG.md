@@ -317,3 +317,7 @@ Note request sanitization details.
 ## [2026-06-06] docs: add A/B testing guidance
 
 Add a/b testing guidance.
+
+## [2026-06-07] perf: record memory leak fix results
+
+Record memory leak fix results.
