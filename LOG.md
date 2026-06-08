@@ -321,3 +321,7 @@ Add a/b testing guidance.
 ## [2026-06-07] perf: record memory leak fix results
 
 Record memory leak fix results.
+
+## [2026-06-08] docs: describe backup relay configuration
+
+Describe backup relay configuration.
