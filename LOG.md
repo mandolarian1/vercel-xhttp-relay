@@ -325,3 +325,7 @@ Record memory leak fix results.
 ## [2026-06-08] docs: describe backup relay configuration
 
 Describe backup relay configuration.
+
+## [2026-06-09] fix: clarify content-type negotiation
+
+Clarify content-type negotiation.
