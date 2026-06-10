@@ -329,3 +329,7 @@ Describe backup relay configuration.
 ## [2026-06-09] fix: clarify content-type negotiation
 
 Clarify content-type negotiation.
+
+## [2026-06-10] docs: add migration guide v1 to v2
+
+Add migration guide v1 to v2.
