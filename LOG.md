@@ -333,3 +333,7 @@ Clarify content-type negotiation.
 ## [2026-06-10] docs: add migration guide v1 to v2
 
 Add migration guide v1 to v2.
+
+## [2026-06-11] chore: clean up legacy configuration
+
+Clean up legacy configuration.
