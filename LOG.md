@@ -337,3 +337,7 @@ Add migration guide v1 to v2.
 ## [2026-06-11] chore: clean up legacy configuration
 
 Clean up legacy configuration.
+
+## [2026-06-12] docs: document audit logging
+
+Document audit logging.
