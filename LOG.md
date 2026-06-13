@@ -341,3 +341,7 @@ Clean up legacy configuration.
 ## [2026-06-12] docs: document audit logging
 
 Document audit logging.
+
+## [2026-06-13] fix: note HTTP/2 multiplexing behavior
+
+Note http/2 multiplexing behavior.
