@@ -345,3 +345,7 @@ Document audit logging.
 ## [2026-06-13] fix: note HTTP/2 multiplexing behavior
 
 Note http/2 multiplexing behavior.
+
+## [2026-06-14] docs: add stress testing results
+
+Add stress testing results.
