@@ -349,3 +349,7 @@ Note http/2 multiplexing behavior.
 ## [2026-06-14] docs: add stress testing results
 
 Add stress testing results.
+
+## [2026-06-15] perf: log queue depth optimization
+
+Log queue depth optimization.
