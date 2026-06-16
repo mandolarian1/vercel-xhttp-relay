@@ -353,3 +353,7 @@ Add stress testing results.
 ## [2026-06-15] perf: log queue depth optimization
 
 Log queue depth optimization.
+
+## [2026-06-16] docs: describe graceful degradation
+
+Describe graceful degradation.
