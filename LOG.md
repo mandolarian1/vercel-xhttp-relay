@@ -357,3 +357,7 @@ Log queue depth optimization.
 ## [2026-06-16] docs: describe graceful degradation
 
 Describe graceful degradation.
+
+## [2026-06-17] fix: clarify connection limit behavior
+
+Clarify connection limit behavior.
