@@ -361,3 +361,7 @@ Describe graceful degradation.
 ## [2026-06-17] fix: clarify connection limit behavior
 
 Clarify connection limit behavior.
+
+## [2026-06-18] docs: add runbook for common issues
+
+Add runbook for common issues.
