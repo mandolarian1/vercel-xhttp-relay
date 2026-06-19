@@ -365,3 +365,7 @@ Clarify connection limit behavior.
 ## [2026-06-18] docs: add runbook for common issues
 
 Add runbook for common issues.
+
+## [2026-06-19] chore: update team contact information
+
+Update team contact information.
