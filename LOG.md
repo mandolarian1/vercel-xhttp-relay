@@ -369,3 +369,7 @@ Add runbook for common issues.
 ## [2026-06-19] chore: update team contact information
 
 Update team contact information.
+
+## [2026-06-20] docs: document zero-downtime deployment
+
+Document zero-downtime deployment.
