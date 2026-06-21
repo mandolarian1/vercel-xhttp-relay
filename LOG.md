@@ -373,3 +373,7 @@ Update team contact information.
 ## [2026-06-20] docs: document zero-downtime deployment
 
 Document zero-downtime deployment.
+
+## [2026-06-21] fix: note response buffering behavior
+
+Note response buffering behavior.
