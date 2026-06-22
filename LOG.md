@@ -377,3 +377,7 @@ Document zero-downtime deployment.
 ## [2026-06-21] fix: note response buffering behavior
 
 Note response buffering behavior.
+
+## [2026-06-22] docs: add schema validation notes
+
+Add schema validation notes.
