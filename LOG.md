@@ -381,3 +381,7 @@ Note response buffering behavior.
 ## [2026-06-22] docs: add schema validation notes
 
 Add schema validation notes.
+
+## [2026-06-23] perf: record P99 latency improvements
+
+Record p99 latency improvements.
