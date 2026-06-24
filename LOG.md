@@ -385,3 +385,7 @@ Add schema validation notes.
 ## [2026-06-23] perf: record P99 latency improvements
 
 Record p99 latency improvements.
+
+## [2026-06-24] docs: describe config hot-reload
+
+Describe config hot-reload.
