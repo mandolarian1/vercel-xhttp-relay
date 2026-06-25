@@ -389,3 +389,7 @@ Record p99 latency improvements.
 ## [2026-06-24] docs: describe config hot-reload
 
 Describe config hot-reload.
+
+## [2026-06-25] fix: clarify proxy auth handling
+
+Clarify proxy auth handling.
