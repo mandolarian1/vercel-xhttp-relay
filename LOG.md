@@ -393,3 +393,7 @@ Describe config hot-reload.
 ## [2026-06-25] fix: clarify proxy auth handling
 
 Clarify proxy auth handling.
+
+## [2026-06-26] docs: add compliance checklist
+
+Add compliance checklist.
