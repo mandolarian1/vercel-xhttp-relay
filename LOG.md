@@ -397,3 +397,7 @@ Clarify proxy auth handling.
 ## [2026-06-26] docs: add compliance checklist
 
 Add compliance checklist.
+
+## [2026-06-27] chore: final documentation polish
+
+Final documentation polish.
